@@ -1,2 +1,2 @@
 # AluraFlix
-ImersaoDev
+ImersaoDev by Danielle
